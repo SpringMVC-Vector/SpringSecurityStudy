@@ -1,1 +1,3 @@
 # SpringSecurityStudy
+
+mvn war:exploded
